@@ -1,0 +1,104 @@
+First I want to design the home page. 
+
+"Suggested Home Page Sections
+
+🟦 1. Hero Section (top of the page)
+
+
+
+
+
+
+
+4
+
+This is the most important part.
+
+What to show:
+
+
+
+App name (e.g., Urban Voice)
+
+Tagline:
+
+
+
+“Report local problems. Make your city better.”
+
+2 buttons:🔵 Report a Problem
+
+⚪ View Problems
+
+Keep it clean. Don’t overload.
+
+🟩 2. How It Works (very important)
+
+
+
+
+
+
+
+4
+
+Explain your system in 4 steps:
+
+
+
+Report → Add issue with image
+
+Vote → Others validate it
+
+Track → Status updates
+
+Resolve → Authority fixes it
+
+This builds trust. It tells users: this is not just a form—it’s a process.
+
+🟨 3. Categories Section
+
+Show what types of problems users can report:
+
+
+
+Road
+
+Water
+
+Electricity
+
+Garbage
+
+Simple cards/icons.
+
+👉 This helps users instantly relate: “Oh, I can report this.”
+
+🟧 4. Impact / Stats (optional but powerful)
+
+Even if fake initially:
+
+
+
+120+ Problems Reported
+
+80+ Resolved
+
+300+ Votes
+
+This gives a sense of activity.
+
+🟪 5. Call to Action (bottom section)
+
+Clear push:
+
+
+
+“See an issue around you? Report it now.”
+
+Button:
+
+👉 Report Problem"
+
+
+
